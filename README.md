@@ -2,7 +2,7 @@
 
 Bixies Formmaker 为你的 Pagekit 站点轻松的添加表单。
 
-Choose from the different field types and create your own forms. Manage submissions from the administrator panel.
+选择不同的字段类型创建自己的表单，你可以在管理员面板轻松管理表单。
 
 查看演示: [http://formmaker.bixie.org](http://formmaker.bixie.org).
 
@@ -10,7 +10,7 @@ Choose from the different field types and create your own forms. Manage submissi
 
 你可以通过 Pagekit 后台内置的应用市场安装该插件
 
-![image](http://formmaker.bixie.org/storage/marketplace.jpg)
+![image](http://cdn.guxin.net/bixie.jpg)
 
 其依赖的扩展将会自动安装
 
