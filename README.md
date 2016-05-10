@@ -1,19 +1,23 @@
 # Pagekit Formmaker
 
-Bixies Formmaker for Pagekit extension enables you to add forms to your website in a breeze.
+Bixies Formmaker 为你的 Pagekit 站点轻松的添加表单。
 
 Choose from the different field types and create your own forms. Manage submissions from the administrator panel.
 
-Info and demo: [http://formmaker.bixie.org](http://formmaker.bixie.org).
+查看演示: [http://formmaker.bixie.org](http://formmaker.bixie.org).
 
-## Installation
+## 安装
 
-Please install Formmaker via the built-in Marketplace in your Pagekit Installation.
+你可以通过 Pagekit 后台内置的应用市场安装该插件
 
 ![image](http://formmaker.bixie.org/storage/marketplace.jpg)
 
-The extension and all its dependancies will be installed automatically.
+其依赖的扩展将会自动安装
 
-## Issues and feature requests
+## 问题和功能请求
 
-Please use the [issues section](https://github.com/Bixie/pagekit-formmaker/issues) to file any bugs or feature requests.
+请使用 [问题部分](https://github.com/Bixie/pagekit-formmaker/issues) 提交任何错误或功能请求。
+
+## 中文本地化支持
+
+由[RTheme](http://www.rtheme.com) 提供汉化支持！
